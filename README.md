@@ -1,6 +1,8 @@
 
 ## Hi there 👋, I'm José Vinicius
-🔭 I’m currently working as Software Engineer
+
+🔭 I’m currently working as Software Developer
+
 👨🏻‍💻 Focused on Web
 
 Linkedin Badge Gmail Badge
